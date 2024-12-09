@@ -1,1 +1,2 @@
 # Artificial Neural Network
+An artificial neural network is a type of artificial intelligence technique, and it was inspired by the learning algorithm of the human brain. An ANN is composed of a large number of processing elements with their connections, and it has three distinctive layers, namely input, hidden and output layers.
